@@ -196,10 +196,12 @@ export default function AboutUs() {
                 Flats
               </Typography>
               <Typography variant="body2" color="textSecondary">
-                Choose from modern flats in prime locations with all the amenities you need.
-                Our flats offer a balance of style, security, and convenience for families and professionals alike.<br /><br />
-                From open-concept living spaces to state-of-the-art kitchens, each flat is designed with functionality and aesthetics in mind.
-              </Typography>
+  Choose from modern flats in prime locations with all the amenities you need.
+  Our flats offer a balance of style, security, and convenience for families and professionals alike.<br /><br />
+  
+  Available flat types include: 1BHK, 2BHK, 3BHK, 4BHK apartments — each with a spacious living room to suit various family needs.
+</Typography>
+
             </ServiceCard>
           </motion.div>
 
@@ -226,10 +228,12 @@ export default function AboutUs() {
                 Studios
               </Typography>
               <Typography variant="body2" color="textSecondary">
-                Affordable and stylish studio apartments, ideal for solo living or short stays.
-                Enjoy compact yet efficient layouts, smart storage solutions, and sleek designs.<br /><br />
-                Whether you're a student, remote worker, or traveler, our studios provide a practical and cozy living space.
-              </Typography>
+  Affordable and stylish studio apartments, ideal for solo living or short stays.
+  Enjoy compact yet efficient layouts, smart storage solutions, and sleek designs.<br /><br />
+ 
+  Furnished and unfurnished studios are available across Abu Dhabi and its suburbs, offering a variety of sizes and prices to match your budget and lifestyle.
+</Typography>
+
             </ServiceCard>
           </motion.div>
         </Box>
