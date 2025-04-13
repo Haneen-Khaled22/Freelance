@@ -83,19 +83,19 @@ export default function ContactUs() {
                 </Link>
               </Box>
 
-              {/* Email
+           
               <Box display="flex" alignItems="center" gap={2}>
                 <MailOutline sx={{ color: "rgba(2, 19, 26, 0.73)" }} />
                 <Link
-                  href="mailto:info@realestate90.com"
+                  href="mailto:Osamakhiled98@gmail.com"
                   color="rgba(2, 19, 26, 0.73)"
                   underline="hover"
                   fontWeight="bold"
                   fontSize={18}
                 >
-                  info@realestate90.com
+                  Osamakhiled98@gmail.com
                 </Link>
-              </Box> */}
+              </Box>
 
               {/* Location */}
               <Box display="flex" alignItems="center" gap={2}>
