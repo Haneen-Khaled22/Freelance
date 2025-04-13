@@ -4,8 +4,8 @@ import AboutUs from './Components/AboutUs';
 import ResponsiveAppBar from './Components/AppBar';
 import ContactUs from './Components/ContactUs';
 
-import Footer from './components/footer';
-import Home from './components/Home';
+import Footer from './Components/Footer';
+
 import FirstSection from './Components/HomeImage';
 
 
